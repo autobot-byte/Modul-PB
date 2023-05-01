@@ -1,2 +1,2 @@
-Modul Pengolahan Basis Data
+Modul Praktikum Pengolahan Basis Data
 
