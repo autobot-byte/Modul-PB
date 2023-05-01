@@ -214,3 +214,4 @@ Merupakan sebuah relasi yang secara kronologis mensyaratkan telah adanya relasi 
   Mc Graw Hill, 2011
 * Ramakrishnan, Rague & Johannes Gehrke, Database Manajemen System 3rd Edition, 2003
 * vuerd Entity-Relationship Diagram Editor vscode extension: https://vuerd.github.io/
+* https://www.programiz.com/sql/database-introduction
